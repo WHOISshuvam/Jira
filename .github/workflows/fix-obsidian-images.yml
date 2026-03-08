@@ -1,0 +1,28 @@
+name: Convert Obsidian Image Links
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  convert-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fix images and links
+        run: |
+          mkdir -p images
+          find . -type f \( -iname '*.png' -o -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.gif' \) -not -path './images/*' -not -path './.git/*' -exec mv -t images/ {} +
+          perl -i -pe 's/!\[\[([^\]]+)\]\]/"![$1](images\/" . ($1 =~ s| |%20|gr) . ")"/ge' *.md 2>/dev/null || true
+
+      - name: Push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --staged --quiet || { git commit -m "Auto convert Obsidian image embeds [skip ci]" && git push; }
