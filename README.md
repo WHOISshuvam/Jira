@@ -42,3 +42,16 @@ We can also move tasks from different board.
 
 ![[Pasted image 20260321190552.png]]
 
+We can also create new field for project.
+
+![[Pasted image 20260321191006.png]]
+
+
+**Creating WorkType**
+1. Navigate to "Add Work Type", choose a logo and add work-type name.
+2. Add description if needed and click on "Create".
+
+![[Pasted image 20260321191318.png]]
+
+![[Pasted image 20260321191327.png]]
+
