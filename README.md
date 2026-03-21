@@ -32,3 +32,8 @@ Figure  05: Showing Sample Workflow
 
 We can also move tasks from different board.
 
+## Managing WorkType
+
+![[Pasted image 20260321190235.png]]
+
+	
