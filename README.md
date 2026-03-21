@@ -36,4 +36,9 @@ We can also move tasks from different board.
 
 ![[Pasted image 20260321190235.png]]
 
-	
+### Deleting WorkType
+
+![[Pasted image 20260321190355.png]]
+
+![[Pasted image 20260321190552.png]]
+
