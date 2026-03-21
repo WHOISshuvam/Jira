@@ -55,4 +55,6 @@ We can also create new field for project.
 
 ![[Pasted image 20260321191327.png]]
 
- 
+ Field like people are required fields and need "Required" flag set.
+![[Pasted image 20260321192440.png]]
+
