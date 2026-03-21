@@ -30,3 +30,5 @@ Figure  05: Showing Sample Workflow
 
 > Any in workflow allow any team member of space to move the progress to that status without restriction.
 
+We can also move tasks from different board.
+
