@@ -104,3 +104,8 @@ Automation in jira helps to reduce manual tasks by automatically performing the 
 
 ![[Pasted image 20260322183415.png]]
 
+
+Rule can be created in 3 ways in Jira - via templates, "Create with AI" or via "Create rule".
+
+![[Pasted image 20260322183915.png]]
+
