@@ -62,5 +62,11 @@ We can also create new field for project.
 
 > Tasks can be created in jira either from spaces or 
 
+Details about the task can be written by clicking on the task from the board.
+
+![[Pasted image 20260322174803.png]]
+
+Creating Business Requests
+
 
 
