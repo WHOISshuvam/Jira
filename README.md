@@ -83,4 +83,11 @@ Smaller tasks can also be created under the subtask by navigating on the Task > 
 
 We can also summarize the comments in teask using Rovo.
 
+**Inviting Users**
+
+1. Go to Spaces > Space Settings > Access.
+2. Click on Add people and add the user.
+![[Pasted image 20260322182359.png]]
+
+![[Pasted image 20260322182458.png]]
 
