@@ -60,5 +60,7 @@ We can also create new field for project.
 
 ### Creating Tasks and Business Requests
 
+> Tasks can be created in jira either from spaces or 
+
 
 
