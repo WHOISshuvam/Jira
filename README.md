@@ -68,5 +68,11 @@ Details about the task can be written by clicking on the task from the board.
 
 Creating Business Requests
 
+![[Pasted image 20260322175140.png]]
+
+Smaller tasks can also be created under the subtask by navigating on the Task > Create Sub task.
+
+![[Pasted image 20260322175411.png]]
+
 
 
