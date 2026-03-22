@@ -74,5 +74,6 @@ Smaller tasks can also be created under the subtask by navigating on the Task > 
 
 ![[Pasted image 20260322175411.png]]
 
+**Task Creation with Atlassian Intelligence**
 
 
