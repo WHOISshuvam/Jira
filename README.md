@@ -91,3 +91,8 @@ We can also summarize the comments in teask using Rovo.
 
 ![[Pasted image 20260322182458.png]]
 
+Users can also customize the roles in Jira.
+
+![[Pasted image 20260322182724.png]]
+
+The filter by assignee allows 
