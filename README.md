@@ -75,5 +75,12 @@ Smaller tasks can also be created under the subtask by navigating on the Task > 
 ![[Pasted image 20260322175411.png]]
 
 **Task Creation with Atlassian Intelligence**
+1. Go to the task description and enter /ai and enter the prompt and hit enter.
+![[Pasted image 20260322181712.png]]
+
+
+![[Pasted image 20260322181902.png]]
+
+We can also summarize the comments in teask using Rovo.
 
 
