@@ -95,4 +95,12 @@ Users can also customize the roles in Jira.
 
 ![[Pasted image 20260322182724.png]]
 
-The filter by assignee allows 
+The filter by assignee allows user to view who is assigned to specific task in jira.
+
+![[Pasted image 20260322183111.png]]
+
+### Automating Work in Jira
+Automation in jira helps to reduce manual tasks by automatically performing the action.
+
+![[Pasted image 20260322183415.png]]
+
