@@ -109,3 +109,5 @@ Rule can be created in 3 ways in Jira - via templates, "Create with AI" or via "
 
 ![Pasted image 20260322183915.png](images/Pasted%20image%2020260322183915.png)
 
+![[Pasted image 20260323103512.png]]
+
