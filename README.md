@@ -113,7 +113,10 @@ Rule can be created in 3 ways in Jira - via templates, "Create with AI" or via "
 
 ![[Pasted image 20260323103512.png]]
 
-1. Click on the template box and select the from and to status.
+1. Click on the trigger template box and select the from and to status.
 ![[Pasted image 20260323104003.png]]
 
-2. 
+2. Select what happens next when the item is transitioned to whom the work is assigned and and click on next. In this example we are choosing "User in a defined list".
+![[Pasted image 20260323104213.png]]
+
+3. Select the user and "Click on next". We can also add a component in the pre-existing template.
