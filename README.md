@@ -133,5 +133,15 @@ Creating automation from scratch:
 2. Select the from and to status.
 ![[Pasted image 20260323104932.png]]
 
-3. Add a condition, for the example we are using work item field condition and set the field to prioroty level , set condition as "is one of" and add value High/Critical.
-4. 
+3. Add a condition, for the example we are using work item field condition and set the field to priority level , set condition as "is one of" and add value High/Critical.
+ ![[Pasted image 20260323105121.png]]
+
+4. Add a component and click on assign work item and specify the manager/project manager.
+5. Click on Turn on rule to activate the rule.
+
+
+**Creating a Automation with Rovo**
+
+1. Go to automation from the space settings and add a prompt to the Rovo.
+![[Pasted image 20260323105600.png]]
+
