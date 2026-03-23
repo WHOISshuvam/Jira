@@ -109,5 +109,11 @@ Rule can be created in 3 ways in Jira - via templates, "Create with AI" or via "
 
 ![Pasted image 20260322183915.png](images/Pasted%20image%2020260322183915.png)
 
+**Creating automation template in Jira**
+
 ![[Pasted image 20260323103512.png]]
 
+1. Click on the template box and select the from and to status.
+![[Pasted image 20260323104003.png]]
+
+2. 
