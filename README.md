@@ -197,3 +197,5 @@ Search filters:
 
 ![[Pasted image 20260323153005.png]]
 
+**Rovo**
+AI powered friend that allows user to look data easily via prompt, chat, 
