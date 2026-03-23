@@ -7,32 +7,36 @@
 Figure 01 : Showing Sample Space
 
 Notes : 
-> Spaces are equivalent to projects.
+> In Jira, spaces act as individual projects where all tasks, workflows, and team collaboration take place. Each space is designed to organize work efficiently for a specific team or objective.
 
-We can add new team members to our project.
+Spaces allow teams to manage their work in a structured way, and multiple users can collaborate within the same space. Team members can be invited and assigned different roles based on their responsibilities.
 
 ![Pasted image 20260321174819.png](images/Pasted%20image%2020260321174819.png)
 Figure 02: Showing Invite members page
 ## Board
-> Board allows us to create tasks heading and sub tasks for the project.
+> Boards provide a visual representation of all tasks in a project, making it easier to track progress and manage workload.
+
+Boards are commonly used in Agile methodologies such as Scrum or Kanban. They allow users to create tasks, move them between stages (e.g., To Do, In Progress, Done), and monitor overall progress in real time. Boards improve visibility and help teams stay aligned on current work.
 
 ![Pasted image 20260321175412.png](images/Pasted%20image%2020260321175412.png)
 Figure 03 : Showing board
 ## Workflow
 
-Workflow allows us to see the flow of the task.
+Workflows define how a task progresses through different stages from creation to completion. They represent the lifecycle of work items and ensure that processes are consistent across the team.
 
 ![Pasted image 20260321175738.png](images/Pasted%20image%2020260321175738.png)
-Figure 04: Showing Workflow
+Figure 04: Showing sample workflow
 
 ![Pasted image 20260321181921.png](images/Pasted%20image%2020260321181921.png)
 Figure  05: Showing Sample Workflow
 
-> Any in workflow allow any team member of space to move the progress to that status without restriction.
+> The “Any” option in a workflow means that any team member within the space can transition a task to that status without restrictions, providing flexibility in task management.
 
-We can also move tasks from different board.
+Workflows can be customized depending on project needs, and tasks can also be moved across different boards if required.
 
 ## Managing WorkType
+
+Work types define the nature of tasks, such as bugs, features, or general tasks. They help categorize work and make it easier to organize, filter, and report on different types of activities within a project.
 
 ![Pasted image 20260321190235.png](images/Pasted%20image%2020260321190235.png)
 
@@ -42,7 +46,7 @@ We can also move tasks from different board.
 
 ![Pasted image 20260321190552.png](images/Pasted%20image%2020260321190552.png)
 
-We can also create new field for project.
+Work types that are no longer relevant can be removed to keep the project clean and organized. Jira also allows the creation of custom fields to capture additional information specific to a project, improving data tracking and reporting.
 
 ![Pasted image 20260321191006.png](images/Pasted%20image%2020260321191006.png)
 
@@ -55,18 +59,21 @@ We can also create new field for project.
 
 ![Pasted image 20260321191327.png](images/Pasted%20image%2020260321191327.png)
 
- Field like people are required fields and need "Required" flag set.
+Certain fields, such as “People,” can be marked as required to ensure that critical information is always provided when creating tasks. 
+
 ![Pasted image 20260321192440.png](images/Pasted%20image%2020260321192440.png)
 
 ### Creating Tasks and Business Requests
 
-> Tasks can be created in jira either from spaces or 
+> Tasks represent individual units of work and can be created either directly from spaces or through boards.
 
-Details about the task can be written by clicking on the task from the board.
+Each task can include detailed descriptions, attachments, comments, and assigned users, making it a central place for collaboration and tracking.
 
 ![Pasted image 20260322174803.png](images/Pasted%20image%2020260322174803.png)
 
 Creating Business Requests
+
+
 
 ![Pasted image 20260322175140.png](images/Pasted%20image%2020260322175140.png)
 
