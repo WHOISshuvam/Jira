@@ -116,7 +116,7 @@ Users can be added to a space to collaborate on tasks and projects.
 ![Pasted image 20260322182359.png](images/Pasted%20image%2020260322182359.png)  
 Figure 18: Showing Invite Users Page
 
-![Pasted image 20260322182458.png](images/Pasted%20image%2020260322182458.png)  
+![Pasted image 20260322182458.png](images/Pasted%20image%2020260322182458.png)                       
 Figure 19: Showing User Role Assignment
 
 Roles in Jira can be customized to control permissions, ensuring that users have the correct level of access based on their responsibilities.
