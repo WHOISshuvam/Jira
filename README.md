@@ -113,7 +113,7 @@ Users can be added to a space to collaborate on tasks and projects.
 1. Navigate to Spaces → Space Settings → Access.
 2. Click “Add people” and invite users by assigning appropriate roles.
 
-![[Pasted image 20260323115056.png]]    
+![Pasted image 20260323115056.png](images/Pasted%20image%2020260323115056.png)    
 Figure 18: Showing Invite Users Page
 
 ![Pasted image 20260322182458.png](images/Pasted%20image%2020260322182458.png)                       
@@ -141,33 +141,33 @@ Automation rules can be created using pre-built templates, AI assistance, or fro
 Figure 23: Showing Automation Rule Options
 
 **Creating automation template in Jira**
-![[Pasted image 20260323103512.png]]
+![Pasted image 20260323103512.png](images/Pasted%20image%2020260323103512.png)
 Figure 24: Showing Automation Template Selection
 
 1. Click on the trigger template box and select the from and to status.
-![[Pasted image 20260323104003.png]]
+![Pasted image 20260323104003.png](images/Pasted%20image%2020260323104003.png)
 Figure 25: Showing Automation Trigger Setup
 
 2. Select what happens next when the item is transitioned to whom the work is assigned and and click on next. In this example we are choosing "User in a defined list".
-![[Pasted image 20260323104213.png]]
+![Pasted image 20260323104213.png](images/Pasted%20image%2020260323104213.png)
 Figure 26: Showing Automation Action Configuration
 
 3. Select the user and "Click on next". We can also add a component in the pre-existing template.
 
 **Creating automation from scratch:**
 
-![[Pasted image 20260323104810.png]]
+![Pasted image 20260323104810.png](images/Pasted%20image%2020260323104810.png)
 Figure 27: Showing Create Automation from Scratch
 
 1. Click on Create from scratch and add a trigger.
 
-![[Pasted image 20260323104910.png]]
+![Pasted image 20260323104910.png](images/Pasted%20image%2020260323104910.png)
 
 2. Define the transition between statuses.
-![[Pasted image 20260323104932.png]]
+![Pasted image 20260323104932.png](images/Pasted%20image%2020260323104932.png)
 Figure 28: Showing Automation Trigger Definition
 3. Add a condition, for the example we are using work item field condition and set the field to priority level , set condition as "is one of" and add value High/Critical.
- ![[Pasted image 20260323105121.png]]
+ ![Pasted image 20260323105121.png](images/Pasted%20image%2020260323105121.png)
 4. Add a component and click on assign work item and specify the manager/project manager.
 5. Click on Turn on rule to activate the rule.
 
@@ -175,10 +175,10 @@ Figure 28: Showing Automation Trigger Definition
 **Creating a Automation with Rovo**
 
 1. Go to automation from the space settings and add a prompt to the Rovo.
-![[Pasted image 20260323105600.png]]
+![Pasted image 20260323105600.png](images/Pasted%20image%2020260323105600.png)
 Figure 29: Showing Rovo Automation Prompt
 2. Review the automation rule.
-![[Pasted image 20260323105745.png]]
+![Pasted image 20260323105745.png](images/Pasted%20image%2020260323105745.png)
 Figure 30: Showing Generated Automation Rule
 
 We can review the audit log of the automation that ran from the "Audit log tab".
@@ -187,8 +187,8 @@ We can review the audit log of the automation that ran from the "Audit log tab".
 **Jira Dashboards**
 A **dashboard** is a centralized interface that presents key metrics, data, and activities in an organized and visual way, helping users track, analyze, and manage their work efficiently.
 
-![[Pasted image 20260323111140.png]]
+![Pasted image 20260323111140.png](images/Pasted%20image%2020260323111140.png)
 Figure 31: Showing Jira Dashboard Overview
 
-![[Pasted image 20260323111317.png]]
+![Pasted image 20260323111317.png](images/Pasted%20image%2020260323111317.png)
 Figure 32: Showing Dashboard Widgets
