@@ -148,3 +148,6 @@ Creating automation from scratch:
 2. Review the automation rule.
 ![[Pasted image 20260323105745.png]]
 
+We can review the audit log of the automation that ran from the "Audit log tab".
+
+
