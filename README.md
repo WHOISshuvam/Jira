@@ -41,6 +41,7 @@ Workflows can be customized depending on project needs, and tasks can also be mo
 Work types define the nature of tasks, such as bugs, features, or general tasks. They help categorize work and make it easier to organize, filter, and report on different types of activities within a project.
 
 ![Pasted image 20260321190235.png](images/Pasted%20image%2020260321190235.png)
+
 Figure 06: Showing Work Type Management
 ### Deleting WorkType
 
@@ -53,6 +54,7 @@ Figure 08 : Displaying Workflow Editor
 Work types that are no longer relevant can be removed to keep the project clean and organized. Jira also allows the creation of custom fields to capture additional information specific to a project, improving data tracking and reporting.
 
 ![Pasted image 20260321191006.png](images/Pasted%20image%2020260321191006.png)
+
 Figure 09: Showing Custom Field Creation
 
 **Creating WorkType**
@@ -60,9 +62,11 @@ Figure 09: Showing Custom Field Creation
 2. Add description if needed and click on "Create".
 
 ![Pasted image 20260321191318.png](images/Pasted%20image%2020260321191318.png)
+
 Figure 10: Showing Work Type Creation Page
 
 ![Pasted image 20260321191327.png](images/Pasted%20image%2020260321191327.png)
+
 Figure 11: Showing Business Request Creation
 
 Certain fields, such as “People,” can be marked as required to ensure that critical information is always provided when creating tasks. 
@@ -100,6 +104,7 @@ Atlassian Intelligence introduces AI-powered assistance to simplify task creatio
 Figure 16: Showing Atlassian Intelligence Prompt
 
 ![Pasted image 20260322181902.png](images/Pasted%20image%2020260322181902.png)
+
 Figure 17: Showing AI Generated Task Content
 
 Additionally, Rovo can be used to summarize comments within tasks, helping users quickly understand discussions without reading everything manually.
@@ -114,6 +119,7 @@ Users can be added to a space to collaborate on tasks and projects.
 Figure 18: Showing Invite Users Page
 
 ![Pasted image 20260322182458.png](images/Pasted%20image%2020260322182458.png)
+
 Figure 19: Showing User Role Assignment
 
 Roles in Jira can be customized to control permissions, ensuring that users have the correct level of access based on their responsibilities.
@@ -124,6 +130,7 @@ Figure 20: Showing Role Customization
 The filter by assignee allows user to view who is assigned to specific task in jira.
 
 ![Pasted image 20260322183111.png](images/Pasted%20image%2020260322183111.png)
+
 Figure 21: Showing Filter by Assignee
 ### Automating Work in Jira
 Automation in Jira helps reduce repetitive manual work by automatically performing actions based on predefined triggers and conditions. This improves efficiency and ensures consistency in workflows.
@@ -187,4 +194,4 @@ A **dashboard** is a centralized interface that presents key metrics, data, and 
 Figure 31: Showing Jira Dashboard Overview
 
 ![[Pasted image 20260323111317.png]]
-Figure 32
+Figure 32: Showing Dashboard Widgets
