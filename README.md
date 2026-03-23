@@ -63,7 +63,7 @@ Figure 09: Showing Custom Field Creation
 
 ![Pasted image 20260321191318.png](images/Pasted%20image%2020260321191318.png)
 
-Figure 10: Showing Work Type Creation Page
+*Figure 10: Showing Work Type Creation Page*
 
 ![Pasted image 20260321191327.png](images/Pasted%20image%2020260321191327.png)
 
