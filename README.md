@@ -145,3 +145,6 @@ Creating automation from scratch:
 1. Go to automation from the space settings and add a prompt to the Rovo.
 ![[Pasted image 20260323105600.png]]
 
+2. Review the automation rule.
+![[Pasted image 20260323105745.png]]
+
