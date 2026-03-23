@@ -63,11 +63,12 @@ Figure 09: Showing Custom Field Creation
 Figure 10: Showing Work Type Creation Page
 
 ![Pasted image 20260321191327.png](images/Pasted%20image%2020260321191327.png)
+Figure 11: Showing Business Request Creation
 
 Certain fields, such as “People,” can be marked as required to ensure that critical information is always provided when creating tasks. 
 
 ![Pasted image 20260321192440.png](images/Pasted%20image%2020260321192440.png)
-
+Figure 12: Showing Required Field Configuration
 ### Creating Tasks and Business Requests
 
 > Tasks represent individual units of work and can be created either directly from spaces or through boards.
@@ -75,16 +76,19 @@ Certain fields, such as “People,” can be marked as required to ensure that c
 Each task can include detailed descriptions, attachments, comments, and assigned users, making it a central place for collaboration and tracking.
 
 ![Pasted image 20260322174803.png](images/Pasted%20image%2020260322174803.png)
+Figure 13: Showing Task Details View
 
 **Creating Business Requests**
 
 Business requests are typically used to capture structured requests from users or stakeholders, ensuring proper tracking and handling.
 
 ![Pasted image 20260322175140.png](images/Pasted%20image%2020260322175140.png)
+Figure 14: Showing Business Request Creation
 
 Tasks can be broken down further into subtasks, allowing teams to divide complex work into smaller, manageable pieces. Smaller tasks can also be created under the subtask by navigating on the Task > Create Sub task.
 
 ![Pasted image 20260322175411.png](images/Pasted%20image%2020260322175411.png)
+Figure 15: Showing Subtask Creation
 
 **Task Creation with Atlassian Intelligence**
 Atlassian Intelligence introduces AI-powered assistance to simplify task creation and improve productivity.
@@ -93,9 +97,10 @@ Atlassian Intelligence introduces AI-powered assistance to simplify task creatio
 2. Type `/ai`, enter a prompt, and press Enter to generate content automatically.
 
 ![Pasted image 20260322181712.png](images/Pasted%20image%2020260322181712.png)
-
+Figure 16: Showing Atlassian Intelligence Prompt
 
 ![Pasted image 20260322181902.png](images/Pasted%20image%2020260322181902.png)
+Figure 17: Showing AI Generated Task Content
 
 Additionally, Rovo can be used to summarize comments within tasks, helping users quickly understand discussions without reading everything manually.
 
@@ -106,43 +111,49 @@ Users can be added to a space to collaborate on tasks and projects.
 2. Click “Add people” and invite users by assigning appropriate roles.
 
 ![Pasted image 20260322182359.png](images/Pasted%20image%2020260322182359.png)
+Figure 18: Showing Invite Users Page
 
 ![Pasted image 20260322182458.png](images/Pasted%20image%2020260322182458.png)
+Figure 19: Showing User Role Assignment
 
 Roles in Jira can be customized to control permissions, ensuring that users have the correct level of access based on their responsibilities.
 
 ![Pasted image 20260322182724.png](images/Pasted%20image%2020260322182724.png)
+Figure 20: Showing Role Customization
 
 The filter by assignee allows user to view who is assigned to specific task in jira.
 
 ![Pasted image 20260322183111.png](images/Pasted%20image%2020260322183111.png)
-
+Figure 21: Showing Filter by Assignee
 ### Automating Work in Jira
 Automation in Jira helps reduce repetitive manual work by automatically performing actions based on predefined triggers and conditions. This improves efficiency and ensures consistency in workflows.
 
 ![Pasted image 20260322183415.png](images/Pasted%20image%2020260322183415.png)
-
+Figure 22: Showing Automation Type in Jira
 
 Automation rules can be created using pre-built templates, AI assistance, or from scratch, depending on the level of customization required.
 
 ![Pasted image 20260322183915.png](images/Pasted%20image%2020260322183915.png)
+Figure 23: Showing Automation Rule Options
 
 **Creating automation template in Jira**
-
 ![[Pasted image 20260323103512.png]]
+Figure 24: Showing Automation Template Selection
 
 1. Click on the trigger template box and select the from and to status.
 ![[Pasted image 20260323104003.png]]
+Figure 25: Showing Automation Trigger Setup
 
 2. Select what happens next when the item is transitioned to whom the work is assigned and and click on next. In this example we are choosing "User in a defined list".
 ![[Pasted image 20260323104213.png]]
+Figure 26: Showing Automation Action Configuration
 
 3. Select the user and "Click on next". We can also add a component in the pre-existing template.
-
 
 **Creating automation from scratch:**
 
 ![[Pasted image 20260323104810.png]]
+Figure 27: Showing Create Automation from Scratch
 
 1. Click on Create from scratch and add a trigger.
 
@@ -150,10 +161,9 @@ Automation rules can be created using pre-built templates, AI assistance, or fro
 
 2. Define the transition between statuses.
 ![[Pasted image 20260323104932.png]]
-
+Figure 28: Showing Automation Trigger Definition
 3. Add a condition, for the example we are using work item field condition and set the field to priority level , set condition as "is one of" and add value High/Critical.
  ![[Pasted image 20260323105121.png]]
-
 4. Add a component and click on assign work item and specify the manager/project manager.
 5. Click on Turn on rule to activate the rule.
 
@@ -162,9 +172,10 @@ Automation rules can be created using pre-built templates, AI assistance, or fro
 
 1. Go to automation from the space settings and add a prompt to the Rovo.
 ![[Pasted image 20260323105600.png]]
-
+Figure 29: Showing Rovo Automation Prompt
 2. Review the automation rule.
 ![[Pasted image 20260323105745.png]]
+Figure 30: Showing Generated Automation Rule
 
 We can review the audit log of the automation that ran from the "Audit log tab".
 
@@ -173,6 +184,7 @@ We can review the audit log of the automation that ran from the "Audit log tab".
 A **dashboard** is a centralized interface that presents key metrics, data, and activities in an organized and visual way, helping users track, analyze, and manage their work efficiently.
 
 ![[Pasted image 20260323111140.png]]
+Figure 31: Showing Jira Dashboard Overview
 
 ![[Pasted image 20260323111317.png]]
-
+Figure 32
