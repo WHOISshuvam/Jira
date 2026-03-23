@@ -1,7 +1,9 @@
 
 
 ### Jira
+> **Jira** is a project management and issue-tracking tool developed by Atlassian. It is widely used by teams to plan, track, and manage work, especially in Agile environments such as Scrum and Kanban.
 
+Jira helps teams organize tasks, assign responsibilities, track progress, automate workflows, and gain insights through dashboards and reports. It is commonly used by developers, project managers, and business teams to collaborate efficiently and deliver projects on time.
 
 ![Pasted image 20260321173909.png](images/Pasted%20image%2020260321173909.png)
 Figure 01 : Showing Sample Space
@@ -39,23 +41,26 @@ Workflows can be customized depending on project needs, and tasks can also be mo
 Work types define the nature of tasks, such as bugs, features, or general tasks. They help categorize work and make it easier to organize, filter, and report on different types of activities within a project.
 
 ![Pasted image 20260321190235.png](images/Pasted%20image%2020260321190235.png)
-
+Figure 06: Showing Work Type Management
 ### Deleting WorkType
 
 ![Pasted image 20260321190355.png](images/Pasted%20image%2020260321190355.png)
+Figure 07: Showing Delete Work Type Option
 
 ![Pasted image 20260321190552.png](images/Pasted%20image%2020260321190552.png)
+Figure 08 : Displaying Workflow Editor 
 
 Work types that are no longer relevant can be removed to keep the project clean and organized. Jira also allows the creation of custom fields to capture additional information specific to a project, improving data tracking and reporting.
 
 ![Pasted image 20260321191006.png](images/Pasted%20image%2020260321191006.png)
-
+Figure 09: Showing Custom Field Creation
 
 **Creating WorkType**
 1. Navigate to "Add Work Type", choose a logo and add work-type name.
 2. Add description if needed and click on "Create".
 
 ![Pasted image 20260321191318.png](images/Pasted%20image%2020260321191318.png)
+Figure 10: Showing Work Type Creation Page
 
 ![Pasted image 20260321191327.png](images/Pasted%20image%2020260321191327.png)
 
