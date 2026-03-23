@@ -120,3 +120,18 @@ Rule can be created in 3 ways in Jira - via templates, "Create with AI" or via "
 ![[Pasted image 20260323104213.png]]
 
 3. Select the user and "Click on next". We can also add a component in the pre-existing template.
+
+
+Creating automation from scratch:
+
+![[Pasted image 20260323104810.png]]
+
+1. Click on Create from scratch and add a trigger.
+
+![[Pasted image 20260323104910.png]]
+
+2. Select the from and to status.
+![[Pasted image 20260323104932.png]]
+
+3. Add a condition, for the example we are using work item field condition and set the field to prioroty level , set condition as "is one of" and add value High/Critical.
+4. 
