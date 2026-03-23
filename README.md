@@ -113,7 +113,7 @@ Users can be added to a space to collaborate on tasks and projects.
 1. Navigate to Spaces → Space Settings → Access.
 2. Click “Add people” and invite users by assigning appropriate roles.
 
-![Pasted image 20260322182359.png](images/Pasted%20image%2020260322182359.png)  
+![[Pasted image 20260323115056.png]]    
 Figure 18: Showing Invite Users Page
 
 ![Pasted image 20260322182458.png](images/Pasted%20image%2020260322182458.png)                       
