@@ -154,3 +154,7 @@ We can review the audit log of the automation that ran from the "Audit log tab".
 **Jira Dashboards**
 A **dashboard** is a centralized interface that presents key metrics, data, and activities in an organized and visual way, helping users track, analyze, and manage their work efficiently.
 
+![[Pasted image 20260323111140.png]]
+
+![[Pasted image 20260323111317.png]]
+
