@@ -1,6 +1,7 @@
 
 
 ### Jira
+
 > **Jira** is a project management and issue-tracking tool developed by Atlassian. It is widely used by teams to plan, track, and manage work, especially in Agile environments such as Scrum and Kanban.
 
 Jira helps teams organize tasks, assign responsibilities, track progress, automate workflows, and gain insights through dashboards and reports. It is commonly used by developers, project managers, and business teams to collaborate efficiently and deliver projects on time.
@@ -16,6 +17,7 @@ Spaces allow teams to manage their work in a structured way, and multiple users 
 ![Pasted image 20260321174819.png](images/Pasted%20image%2020260321174819.png)
 Figure 02: Showing Invite members page
 ## Board
+
 > Boards provide a visual representation of all tasks in a project, making it easier to track progress and manage workload.
 
 Boards are commonly used in Agile methodologies such as Scrum or Kanban. They allow users to create tasks, move them between stages (e.g., To Do, In Progress, Done), and monitor overall progress in real time. Boards improve visibility and help teams stay aligned on current work.
@@ -53,8 +55,7 @@ Figure 08 : Displaying Workflow Editor
 
 Work types that are no longer relevant can be removed to keep the project clean and organized. Jira also allows the creation of custom fields to capture additional information specific to a project, improving data tracking and reporting.
 
-![Pasted image 20260321191006.png](images/Pasted%20image%2020260321191006.png)
-
+![Pasted image 20260321191006.png](images/Pasted%20image%2020260321191006.png)  
 Figure 09: Showing Custom Field Creation
 
 **Creating WorkType**
@@ -65,7 +66,6 @@ Figure 09: Showing Custom Field Creation
 *Figure 10: Showing Work Type Creation Page*
 
 ![Pasted image 20260321191327.png](images/Pasted%20image%2020260321191327.png)  
-
 Figure 11: Showing Business Request Creation
 
 Certain fields, such as “People,” can be marked as required to ensure that critical information is always provided when creating tasks. 
@@ -116,12 +116,12 @@ Users can be added to a space to collaborate on tasks and projects.
 ![Pasted image 20260322182359.png](images/Pasted%20image%2020260322182359.png)  
 Figure 18: Showing Invite Users Page
 
-![Pasted image 20260322182458.png](images/Pasted%20image%2020260322182458.png)
+![Pasted image 20260322182458.png](images/Pasted%20image%2020260322182458.png)  
 Figure 19: Showing User Role Assignment
 
 Roles in Jira can be customized to control permissions, ensuring that users have the correct level of access based on their responsibilities.
 
-![Pasted image 20260322182724.png](images/Pasted%20image%2020260322182724.png)
+![Pasted image 20260322182724.png](images/Pasted%20image%2020260322182724.png)  
 Figure 20: Showing Role Customization
 
 The filter by assignee allows user to view who is assigned to specific task in jira.
