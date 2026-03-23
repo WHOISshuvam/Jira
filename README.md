@@ -192,3 +192,8 @@ Figure 31: Showing Jira Dashboard Overview
 
 ![Pasted image 20260323111317.png](images/Pasted%20image%2020260323111317.png)
 Figure 32: Showing Dashboard Widgets
+
+Search filters:
+
+![[Pasted image 20260323153005.png]]
+
