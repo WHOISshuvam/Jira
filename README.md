@@ -71,34 +71,40 @@ Each task can include detailed descriptions, attachments, comments, and assigned
 
 ![Pasted image 20260322174803.png](images/Pasted%20image%2020260322174803.png)
 
-Creating Business Requests
+**Creating Business Requests**
 
-
+Business requests are typically used to capture structured requests from users or stakeholders, ensuring proper tracking and handling.
 
 ![Pasted image 20260322175140.png](images/Pasted%20image%2020260322175140.png)
 
-Smaller tasks can also be created under the subtask by navigating on the Task > Create Sub task.
+Tasks can be broken down further into subtasks, allowing teams to divide complex work into smaller, manageable pieces. Smaller tasks can also be created under the subtask by navigating on the Task > Create Sub task.
 
 ![Pasted image 20260322175411.png](images/Pasted%20image%2020260322175411.png)
 
 **Task Creation with Atlassian Intelligence**
-1. Go to the task description and enter /ai and enter the prompt and hit enter.
+Atlassian Intelligence introduces AI-powered assistance to simplify task creation and improve productivity.
+
+1. Navigate to the task description field.
+2. Type `/ai`, enter a prompt, and press Enter to generate content automatically.
+
 ![Pasted image 20260322181712.png](images/Pasted%20image%2020260322181712.png)
 
 
 ![Pasted image 20260322181902.png](images/Pasted%20image%2020260322181902.png)
 
-We can also summarize the comments in teask using Rovo.
+Additionally, Rovo can be used to summarize comments within tasks, helping users quickly understand discussions without reading everything manually.
 
 **Inviting Users**
+Users can be added to a space to collaborate on tasks and projects.
 
-1. Go to Spaces > Space Settings > Access.
-2. Click on Add people and add the user.
+1. Navigate to Spaces → Space Settings → Access.
+2. Click “Add people” and invite users by assigning appropriate roles.
+
 ![Pasted image 20260322182359.png](images/Pasted%20image%2020260322182359.png)
 
 ![Pasted image 20260322182458.png](images/Pasted%20image%2020260322182458.png)
 
-Users can also customize the roles in Jira.
+Roles in Jira can be customized to control permissions, ensuring that users have the correct level of access based on their responsibilities.
 
 ![Pasted image 20260322182724.png](images/Pasted%20image%2020260322182724.png)
 
@@ -107,12 +113,12 @@ The filter by assignee allows user to view who is assigned to specific task in j
 ![Pasted image 20260322183111.png](images/Pasted%20image%2020260322183111.png)
 
 ### Automating Work in Jira
-Automation in jira helps to reduce manual tasks by automatically performing the action.
+Automation in Jira helps reduce repetitive manual work by automatically performing actions based on predefined triggers and conditions. This improves efficiency and ensures consistency in workflows.
 
 ![Pasted image 20260322183415.png](images/Pasted%20image%2020260322183415.png)
 
 
-Rule can be created in 3 ways in Jira - via templates, "Create with AI" or via "Create rule".
+Automation rules can be created using pre-built templates, AI assistance, or from scratch, depending on the level of customization required.
 
 ![Pasted image 20260322183915.png](images/Pasted%20image%2020260322183915.png)
 
@@ -129,7 +135,7 @@ Rule can be created in 3 ways in Jira - via templates, "Create with AI" or via "
 3. Select the user and "Click on next". We can also add a component in the pre-existing template.
 
 
-Creating automation from scratch:
+**Creating automation from scratch:**
 
 ![[Pasted image 20260323104810.png]]
 
@@ -137,7 +143,7 @@ Creating automation from scratch:
 
 ![[Pasted image 20260323104910.png]]
 
-2. Select the from and to status.
+2. Define the transition between statuses.
 ![[Pasted image 20260323104932.png]]
 
 3. Add a condition, for the example we are using work item field condition and set the field to priority level , set condition as "is one of" and add value High/Critical.
