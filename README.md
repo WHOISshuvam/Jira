@@ -195,14 +195,14 @@ Figure 32: Showing Dashboard Widgets
 
 Search filters:
 
-![[Pasted image 20260323153005.png]]
+![Pasted image 20260323153005.png](images/Pasted%20image%2020260323153005.png)
 
 **Rovo**
 AI powered friend that allows user to look data easily via prompt, chat, \
 
-![[Pasted image 20260323153910.png]]
+![Pasted image 20260323153910.png](images/Pasted%20image%2020260323153910.png)
 
-![[Pasted image 20260323154018.png]]
+![Pasted image 20260323154018.png](images/Pasted%20image%2020260323154018.png)
 
-![[Pasted image 20260323154157.png]]
+![Pasted image 20260323154157.png](images/Pasted%20image%2020260323154157.png)
 
